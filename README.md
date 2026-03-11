@@ -1,2 +1,2 @@
 # git_practice
-This is a git practice
+This is my second git practice
